@@ -1,0 +1,60 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Estilo do cabeçalho */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilo para a seção de Jornalismo */
+.jornalismo {
+    background-color: #8e44ad;
+    color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+/* Estilo para a seção de Esportes */
+.esportes {
+    background-color: #27ae60;
+    color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+/* Estilo para a seção de entretenimento */
+.entretenimento {
+    background-color: #f5b041;
+    color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    text-align: center
+}
+
+/* Estilo para a seção de tecnologia */
+.tecnologia {
+    background-color: #5dade2;
+    color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    text-align: center
+}
+
+/* Estilo do rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+ 
